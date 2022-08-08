@@ -50,6 +50,3 @@ Special credits for initial idea, project name, starter code, database creation,
 
 This project would not have been possible without their guidance.
 
-
-## Contact Me
-I would love to hear any feedback or new ideas for this project! Please feel free to contact me at malinidasgupta2000@gmail.com
